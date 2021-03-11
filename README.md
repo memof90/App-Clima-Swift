@@ -55,5 +55,13 @@ end
 	</dict>
 ```
 
+## Imagen Incial Geolocalizacion
+
+![alt text](https://i.ibb.co/2nKyYBF/Simulator-Screen-Shot-i-Phone-12-Pro-2021-03-11-at-16-55-03.png)
+
+## App Funcionando 
+
+![alt text](https://i.ibb.co/prR1Yvc/api-rest.png)
+
 
 
